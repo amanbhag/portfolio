@@ -1,8 +1,7 @@
 import crypto from "../assets/projects/crypto.png";
 import sociopedia from "../assets/projects/sociopedia.png";
 import ytclone from "../assets/projects/ytclone.png";
-import urlster from "../assets/projects/umeshster.png";
-
+import urlster from "../assets/projects/umeshssss.png";
 
 export const data = [
   {
@@ -26,7 +25,7 @@ export const data = [
     github: "https://github.com/amanbhag/ytclone-learn",
     live: "https://ytcloned-u.netlify.app/",
   },
-   {
+  {
     id: 4,
     name: "url shortner",
     image: urlster,
