@@ -1,6 +1,8 @@
 import crypto from "../assets/projects/crypto.png";
 import sociopedia from "../assets/projects/sociopedia.png";
 import ytclone from "../assets/projects/ytclone.png";
+import urlster from "../assets/projects/umeshster.png";
+
 
 export const data = [
   {
