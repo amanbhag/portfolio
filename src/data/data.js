@@ -24,4 +24,11 @@ export const data = [
     github: "https://github.com/amanbhag/ytclone-learn",
     live: "https://ytcloned-u.netlify.app/",
   },
+   {
+    id: 4,
+    name: "url shortner",
+    image: urlster,
+    github: "https://github.com/amanbhag/URL_SHORTNER",
+    live: "https://url-shortner-umesh.vercel.app/",
+  },
 ];
